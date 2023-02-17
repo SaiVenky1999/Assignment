@@ -1,1 +1,2 @@
-This is java code in file 1
+THIS IS PHP IN FILE 1
+
